@@ -1,0 +1,9 @@
+
+    <resources>
+        <color name="bakgroundColor1">#0db2c6</color>
+        <color name="bakgroundColor2">#b82d0d</color>
+        <color name="foregroundColor1">#0e0e66</color>
+        <color name="foregroundColor2">#ffffff</color>
+        <color name="labelColor">#888888</color>
+        <color name="valColor">#0e0e66</color>
+    </resources>
